@@ -1,3 +1,5 @@
+# Artisan Expedition Guide: Outline
+
 1. Overview
     - Expedition Thesis Statement
     - Expedition Origins
