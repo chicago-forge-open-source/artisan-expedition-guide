@@ -13,4 +13,4 @@
 6. Why Artisans are valuable to have on an Expedition
 7. How to Talk to Clients
 8. [A Word on Constraints](./AWordOnConstraints.md)
-9. When to Prototype
+9. [When to Prototype](./WhenToPrototype.md)

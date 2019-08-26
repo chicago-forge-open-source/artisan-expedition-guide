@@ -4,7 +4,7 @@
 Artisans expectations of Experience People
 
 
-- **Participate** in team standard forming - Experience team members should be expected to participate in Team Standardization.
+- **Participate** in team standard forming - Experience team members should be expected to participate in *Team Standardization*.
 
 
 - **Available to participate in knowledge transfer** - Artisans should expect Experience team members to be big & visible. That is, Artisans should be familiar with what Experience has done and is doing. Utilize tools like Slack and Trello for communication and project work tracking. 
@@ -13,7 +13,7 @@ Artisans expectations of Experience People
 - **Value Stories** - Experience can be expected to drive value stories toward a focus on the optimal UX.
 
 
-- **Review client research output** - The client will often have already gathered their own information about their problem. Artisans should expect Experience team members to review this research and output artifacts summarizing any valuable insights. Expected Output: Knowledge transfer / Reference Documents.
+- **Review client research output** - The client will often have already gathered their own information about their problem. Artisans should expect Experience team members to review this research and output artifacts summarizing any valuable insights. Expected Output: *Knowledge transfer / Reference Documents*.
 
 
 - **User Research** - Experience team members will conduct a broad variety of user research. Artisans should expect the discoveries and the known deficiencies of this research to be clearly communicated via verbal knowledge transfer and shared artifacts. Expected Output: Knowledge transfer / Reference Documents.
