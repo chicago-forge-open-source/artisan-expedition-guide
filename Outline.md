@@ -2,7 +2,7 @@
 
 1. Overview
     - Expedition Thesis Statement
-    - Expedition Origins
+    - [Expedition Origins](./Overview/ExpeditionOrigins.md)
     - Expedition Journey Map
     - Execution Project Definition
     - Expedition Project Definition
