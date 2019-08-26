@@ -13,8 +13,8 @@
     - [Ongoing](./Timeline/TimelineOngoing.pdf)
     - [Flow Chart](./Timeline/TimelineFlowChart.pdf)
 5. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
-    - Experience
-    - Delivery
+    - [Experience](./OthersInRelationToArtisans.md#experience)
+    - [Delivery](./OthersInRelationToArtisans.md#delivery)
 6. [Why Artisans are valuable to have on an Expedition](./ArtisansValueOnExpedition.md)
 7. How to Talk to Clients
 8. [A Word on Constraints](./AWordOnConstraints.md)
