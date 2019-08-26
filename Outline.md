@@ -7,6 +7,9 @@
 2. Artisan Expedition Work and Distance from Building Illustration
 3. [Artisan Task Definition List](./ArtisanTaskDefinitionList.md)
 4. Expedition Timeline
+    - [Creation](./Timeline/TimelineCreation.pdf)
+    - [Ongoing](./Timeline/TimelineOngoing.pdf)
+    - [Flow Chart](./Timeline/TimelineFlowChart.pdf)
 5. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
     - Experience
     - Delivery
