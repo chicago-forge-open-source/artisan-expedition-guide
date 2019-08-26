@@ -4,12 +4,6 @@
     - Expedition Thesis Statement
     - [Expedition Origins](./Overview/ExpeditionOrigins.md)
     - Expedition Journey Map
-    - Execution Project Definition
-    - Expedition Project Definition
-    - Expedition Role Descriptions and Definitions
-    - Role Proportion Content 
-    - Expedition/Execution Project Example Timelines 
-    - Example of Intersecting Stable Teams with Expedition/- Execution Projects
 2. Artisan Expedition Work and Distance from Building Illustration
 3. [Artisan Task Definition List](./ArtisanTaskDefinitionList.md)
 4. Expedition Timeline
