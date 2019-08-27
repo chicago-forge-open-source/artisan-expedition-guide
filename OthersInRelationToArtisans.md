@@ -34,10 +34,10 @@ Artisans expectations of Experience People
 - **Solution Concepts** - Artisans should expect high level concepts for the final solution from Experience team. These concepts may be wholly or partially conceived by Experience and should be technically assessed by Artisans.
 
 
-- **Prototypes** - Artisans should expect wireframes, hi-fi comp user flows with annotations, sitemaps, clickable prototypes, etc. to be produced by Experience team members as necessary. These are initial passes at visualizing Solution Concepts.
+- **Prototypes** - Artisans should expect wireframes, hi-fi comp user flows with annotations, site-maps, clickable prototypes, etc. to be produced by Experience team members as necessary. These are initial passes at visualizing Solution Concepts.
 
 
-- **Strategy Hypotheses Deliverables(s)** - Artisans should expect to work with Experience team members to co-create the Strategy Hypotheses Deliverable(s). This will include all relevant Reference Documents, Prototypes, and recommendations to improve the client’s UX, business processes, etc.
+- **Strategy Hypotheses Deliverable(s)** - Artisans should expect to work with Experience team members to co-create the Strategy Hypotheses Deliverable(s). This will include all relevant Reference Documents, Prototypes, and recommendations to improve the client’s UX, business processes, etc.
 
 ### Delivery
 Artisans expectations of Delivery People

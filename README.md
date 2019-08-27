@@ -1,5 +1,5 @@
 # Artisan Expedition Guide
-The intent of the Artisan Expedition Guide is primarily to communicate to Artisans what they can expect while on an expedition project and persuade Artisans of their value beyond writng code.
+The intent of the Artisan Expedition Guide is primarily to communicate to Artisans what they can expect while on an expedition project and persuade Artisans of their value beyond writing code.
 
 Use the [outline](#outline) to navigate through the material. 
 # Outline

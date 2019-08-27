@@ -1,2 +1,12 @@
 
 .DS_Store
+
+
+## .idea
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/$PRODUCT_WORKSPACE_FILE$
+
+*.iml
