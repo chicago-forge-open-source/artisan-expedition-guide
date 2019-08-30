@@ -5,7 +5,7 @@ Use the [outline](#outline) to navigate through the material.
 # Outline
 
 1. Overview
-    - Expedition Thesis Statement
+    - [Expedition Thesis Statement](./Overview/Thesis.md)
     - [Expedition Origins](./Overview/ExpeditionOrigins.md)
     - Expedition Journey Map
 1. [Why Artisans are valuable to have on an Expedition](./ArtisansValueOnExpedition.md)
@@ -20,7 +20,6 @@ Use the [outline](#outline) to navigate through the material.
 1. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
     - [Experience](./OthersInRelationToArtisans.md#experience)
     - [Delivery](./OthersInRelationToArtisans.md#delivery)
-
 1. Helpful Considerations
     - How to Talk to Clients
     - [A Word on Constraints](./AWordOnConstraints.md)
