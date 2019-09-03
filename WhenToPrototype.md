@@ -1,4 +1,4 @@
-#+ When to Prototype
+# When to Prototype
 
 To understand when to prototype, artisans must first understand that the goal of a prototype is to answer a specific question about a product concept. Two outputs of achieving the goal are demonstrating proposed optimal user experience, and discovering and avoiding technology-specific icebergs.
 
