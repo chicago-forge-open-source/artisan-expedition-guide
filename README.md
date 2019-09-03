@@ -20,7 +20,9 @@ Use the [outline](#outline) to navigate through the material.
 1. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
     - [Experience](./OthersInRelationToArtisans.md#experience)
     - [Delivery](./OthersInRelationToArtisans.md#delivery)
-1. Helpful Considerations
+1. [Helpful Considerations](./HelpfulConsiderations.md)
     - How to Talk to Clients
-    - [A Word on Constraints](./AWordOnConstraints.md)
-    - What Success Looks Like
+    - A Word on Constraints
+1. [Looking To Success](./LookingToSuccess.md)
+
+[Next &rarr;](./Overview/Thesis.md)

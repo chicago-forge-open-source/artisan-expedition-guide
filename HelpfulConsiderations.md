@@ -1,4 +1,6 @@
-# A Word On Contraints
+# How to Talk to Clients
+
+# A Word on Contraints
 
 ### The Big Inhibitors
 - Financial Cost
