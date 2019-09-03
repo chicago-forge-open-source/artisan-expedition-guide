@@ -11,12 +11,12 @@ Use the [outline](#outline) to navigate through the material.
 1. [Why Artisans are valuable to have on an Expedition](./ArtisansValueOnExpedition.md)
     - Artisan Expedition Work and Distance from Building Illustration
 1. Artisan Tasks
-    - [Artisan Task Definition List](./ArtisanTaskDefinitionList.md)
-    - [When to Prototype](./WhenToPrototype.md)
+    - [Artisan Task Definition List](./ArtisanTasks/ArtisanTaskDefinitionList.md)
+    - [When to Prototype](./ArtisanTasks/WhenToPrototype.md)
     - Timeline
-        - [Creation](./Timeline/TimelineCreation.pdf)
-        - [Ongoing](./Timeline/TimelineOngoing.pdf)
-        - [Flow Chart](./Timeline/TimelineFlowChart.pdf)
+        - [Creation](./ArtisanTasks/TimelineCreation.pdf)
+        - [Ongoing](./ArtisanTasks/TimelineOngoing.pdf)
+        - [Flow Chart](./ArtisanTasks/TimelineFlowChart.pdf)
 1. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
     - [Experience](./OthersInRelationToArtisans.md#experience)
     - [Delivery](./OthersInRelationToArtisans.md#delivery)
