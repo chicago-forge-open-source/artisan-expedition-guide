@@ -13,10 +13,7 @@ Use the [outline](#outline) to navigate through the material.
 1. Artisan Tasks
     - [Artisan Task Definition List](./ArtisanTasks/ArtisanTaskDefinitionList.md)
     - [When to Prototype](./ArtisanTasks/WhenToPrototype.md)
-    - Timeline
-        - [Creation](./ArtisanTasks/TimelineCreation.pdf)
-        - [Ongoing](./ArtisanTasks/TimelineOngoing.pdf)
-        - [Flow Chart](./ArtisanTasks/TimelineFlowChart.pdf)
+    - [Timeline Illustrations](./ArtisanTasks/TimelineIllustrations.pdf)
 1. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
     - [Experience](./OthersInRelationToArtisans.md#experience)
     - [Delivery](./OthersInRelationToArtisans.md#delivery)
