@@ -12,7 +12,7 @@ Use the [outline](#outline) to navigate through the material.
     - Artisan Expedition Work and Distance from Building Illustration
 1. Artisan Tasks
     - [Artisan Task Definition List](./ArtisanTasks/ArtisanTaskDefinitionList.md)
-    - [Timeline Illustrations](./ArtisanTasks/TimelineIllustrations.pdf)
+    - [Timeline Illustrations](./ArtisanTasks/TimelineIllustrations.md)
 1. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
     - [Experience](./OthersInRelationToArtisans.md#experience)
     - [Delivery](./OthersInRelationToArtisans.md#delivery)
