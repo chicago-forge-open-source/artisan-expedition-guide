@@ -12,7 +12,6 @@ Use the [outline](#outline) to navigate through the material.
     - Artisan Expedition Work and Distance from Building Illustration
 1. Artisan Tasks
     - [Artisan Task Definition List](./ArtisanTasks/ArtisanTaskDefinitionList.md)
-    - [When to Prototype](./ArtisanTasks/WhenToPrototype.md)
     - [Timeline Illustrations](./ArtisanTasks/TimelineIllustrations.pdf)
 1. [What Artisans can expect from others](./OthersInRelationToArtisans.md)
     - [Experience](./OthersInRelationToArtisans.md#experience)
@@ -20,6 +19,7 @@ Use the [outline](#outline) to navigate through the material.
 1. [Helpful Considerations](./HelpfulConsiderations.md)
     - How to Talk to Clients
     - A Word on Constraints
+    - [When to Prototype](./ArtisanTasks/WhenToPrototype.md)
 1. [Looking To Success](./LookingToSuccess.md)
 
 [Next &rarr;](./Overview/Thesis.md)
