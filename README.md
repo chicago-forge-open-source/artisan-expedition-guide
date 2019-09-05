@@ -17,7 +17,7 @@ Use the [outline](#outline) to navigate through the material.
     - [Experience](./OthersInRelationToArtisans.md#experience)
     - [Delivery](./OthersInRelationToArtisans.md#delivery)
 1. [Helpful Considerations](./HelpfulConsiderations.md)
-    - How to Talk to Clients
+    - [How to Talk to Clients](./HelpfulConsiderations.md#how-to-talk-to-clients)
     - [A Word on Constraints](./HelpfulConsiderations.md#a-word-on-contraints)
     - [When to Prototype](./ArtisanTasks/WhenToPrototype.md)
 1. [Looking To Success](./LookingToSuccess.md)
