@@ -56,4 +56,4 @@
 - This is the ‘handoff’ item(s) that contains the potential directions in regards to software, information architecture, business processes, etc. Any information you want to hand over to the client/implementation team. This could be in the form of a slide deck, word doc, mark down, prototype, mocks, etc.
 - **Artisans** will work with Experience to prepare these deliverables and include artifacts that they have worked on over the course of the project. All technical work will be handed off, and recommendations, and the reasons behind them, are made clear to the client.
 
-[&larr; Prev](../ArtisansValueOnExpedition.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./TimelineIllustrations.md)
+[&larr; Prev](../ArtisansValueOnExpedition.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./TimelineIllustrations.md#Timeline-Illustrations)

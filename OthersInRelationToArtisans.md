@@ -1,4 +1,4 @@
-## Others In Relation To Artisans
+# What Artisans can expect from Others
 
 ### Experience
 Artisans expectations of Experience People
@@ -63,4 +63,4 @@ Artisans expectations of Delivery People
     - Team - Is the team happy, functional, and productive? Are we growing our people? Are there any blockers to stopping the team from growing?
     - Product X.0 - Are we growing the company, following principles, doing all the right stuff?
 
-[&larr; Prev](./ArtisanTasks/TimelineIllustrations.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./HelpfulConsiderations.md)
+[&larr; Prev](./ArtisanTasks/TimelineIllustrations.md#Timeline-Illustrations) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./HelpfulConsiderations.md)

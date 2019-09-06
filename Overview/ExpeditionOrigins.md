@@ -1,3 +1,5 @@
+# Expedition Origins
+
 The expedition concept was prompted by the question - "How should the engagement with Seawolf continue?" "How do we responsibly engage with the projects spinning out of OoT without being able to execute them ourselves.'' “How are we describing the work we're currently doing for OoT?"
 
 In this process, we came to describe the platonic "OoT" like project as an Expedition.

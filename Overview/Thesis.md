@@ -1,4 +1,4 @@
-# Thesis
+# Expedition Thesis Statement
 
 Product X.0 has the capability to build and iterate on a defined solution concept. Product X.0 also has the capability to build and iterate on a weakly defined solution that needs additional clarification - we start those projects off with a discovery.
 

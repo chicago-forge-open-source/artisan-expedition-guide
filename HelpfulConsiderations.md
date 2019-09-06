@@ -1,4 +1,6 @@
-# How to Talk to Clients
+# Helpful Considerations
+
+## How to Talk to Clients
 
 ### Consulting Skills
 - Consistently imagine perspectives from the client's vantage point. This enables understanding and empathy for how the client perceives and is impacted by current situations.
@@ -39,7 +41,7 @@ The ability to analyze, understand the problem, and influence change. Skills tha
 - [How to speak with clients when you’re an ‘anti-social’ developer
 ](https://www.godaddy.com/garage/how-to-speak-with-clients-when-youre-an-anti-social-developer/)
 
-# A Word on Contraints
+## A Word on Contraints
 
 ### The Big Inhibitors
 - Financial Cost
