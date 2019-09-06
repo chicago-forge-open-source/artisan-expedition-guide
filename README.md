@@ -4,10 +4,7 @@ The purpose of the Artisan Expedition Guide is to communicate to Artisans what t
 Use the [outline](#outline) to navigate through the material. 
 # Outline
 
-1. Overview
-    - [Expedition Thesis Statement](./Overview/Thesis.md)
-    - [Expedition Origins](./Overview/ExpeditionOrigins.md)
-    - Expedition Journey Map
+1. [Overview](./Overview.md)
 1. [Why Artisans are valuable to have on an Expedition](./ArtisansValueOnExpedition.md)
     - Artisan Expedition Work and Distance from Building Illustration
 1. Artisan Tasks
@@ -19,7 +16,5 @@ Use the [outline](#outline) to navigate through the material.
 1. [Helpful Considerations](./HelpfulConsiderations.md)
     - [How to Talk to Clients](./HelpfulConsiderations.md#how-to-talk-to-clients)
     - [A Word on Constraints](./HelpfulConsiderations.md#a-word-on-contraints)
-    - [When to Prototype](./ArtisanTasks/WhenToPrototype.md)
+    - [When to Prototype](./WhenToPrototype.md)
 1. [Looking To Success](./LookingToSuccess.md)
-
-[Next &rarr;](./Overview/Thesis.md)
