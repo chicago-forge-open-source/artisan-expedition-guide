@@ -10,3 +10,5 @@ Example of ongoing maintenance for Expedition. Once a task is started, the artif
 
 Example of possible Expedition workflow with multiple journey maps in parallel development.
 ![alt text](./Assets/Timelines/Flow-Chart.png "Flowchart")
+
+[&larr; Prev](./ArtisanTaskDefinitionList.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](../OthersInRelationToArtisans.md)

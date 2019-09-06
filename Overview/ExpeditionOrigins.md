@@ -12,3 +12,5 @@ Using these definitions, we can more clearly describe the following situations:
 - Product X.0 Expedition, only Execution fulfilled by other parties
 
 Knowing all of these situations need to be supported responsibly, we can make clear recommendations on the size and shape that Product X.0 would recommend to make each of these arrangements succeed.
+
+[&larr; Prev](./Thesis.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](../ArtisansValueOnExpedition.md)

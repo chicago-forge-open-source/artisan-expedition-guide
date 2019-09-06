@@ -51,3 +51,5 @@ The ability to analyze, understand the problem, and influence change. Skills tha
 Delivery team members tend to be closely familiar with the Big Inhibitors as they relate to each project, therefore they are an excellent resource for discussing potential frictions. 
 
 One main thing that can affect a project’s maneuverability is how open the client’s data architecture is to change. Factors that affect a data architecture flexibility, may include the big inhibitors.
+
+[&larr; Prev](./OthersInRelationToArtisans.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./WhenToPrototype.md)

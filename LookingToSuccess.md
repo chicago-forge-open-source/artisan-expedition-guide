@@ -8,3 +8,5 @@ Success in an Expedition doesn’t always feel like success. Depending on the cl
 
 ### What does a successful Expedition produce?
 A successful Expedition should produce lots and lots of artifacts. There should be an artifact for almost, if not every, task in the project. These should be presented to the client during weekly iteration reviews to show the Expedition progress and spark conversations, during which we should be communicating our findings (even if the results aren’t what the client wants to hear). The final deliverable of an Expedition project should be an easily consumable compilation of artifacts (i.e., a slide-deck) as well as Discovery proposals that the client can choose to pursue further if they find the Solution Concept to be worth the investment.
+
+[&larr; Prev](./WhenToPrototype.md)

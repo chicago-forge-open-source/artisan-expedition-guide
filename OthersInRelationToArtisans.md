@@ -62,3 +62,5 @@ Artisans expectations of Delivery People
     - Client - Is the client happy with our work / do they understand the value we bring?
     - Team - Is the team happy, functional, and productive? Are we growing our people? Are there any blockers to stopping the team from growing?
     - Product X.0 - Are we growing the company, following principles, doing all the right stuff?
+
+[&larr; Prev](./ArtisanTasks/TimelineIllustrations.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./HelpfulConsiderations.md)

@@ -6,4 +6,4 @@ However, sometimes there may be a whole field of potential solutions to be explo
 
 For these clients, Product X.0 is ready to perform an Expedition. The Expedition project will explore the problem space, learn about the users, business and domain, and clarify solutions to the point where they can be executed.
 
-[Next &rarr;](./ExpeditionOrigins.md)
+[&larr; Prev](../README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./ExpeditionOrigins.md)

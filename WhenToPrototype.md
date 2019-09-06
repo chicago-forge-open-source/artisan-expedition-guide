@@ -19,3 +19,4 @@ In addition to the depth of implementation, Artisans must take into account fina
  
 Finally, Artisans should understand what they are responsible for when they decide to prototype. Artisans and Delivery need make sure the client and team have a shared expectations of what the prototype will output. Having a good understanding of the current atmosphere or ecosystem will aid in the setting of shared expectations. If expectations are not framed correctly, clients could be expecting something that is production-ready and/or the final product. Lastly, artisans should know the appropriate time to stop prototyping. Artisans should stop prototyping if financial constraints are met and the client asks you to stop.
 
+[&larr; Prev](./HelpfulConsiderations.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next &rarr;](./LookingToSuccess.md)
